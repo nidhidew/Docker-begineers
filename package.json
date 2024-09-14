@@ -1,0 +1,15 @@
+{
+  "name": "docker-begineers",
+  "version": "1.0.0",
+  "description": "A docker file is a blueprint that will be used to create a docker image.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
